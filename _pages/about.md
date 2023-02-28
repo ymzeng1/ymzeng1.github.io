@@ -13,11 +13,12 @@ Hi, I'm a Ph.D. student in Computer Science at Sun Yet-sen University, affiliate
 
 Updates
 ======
-Sept 2022 Promoted by Prof. Hui Cheng to be a Ph.D. student in RAPID Lab
-June 2022 My paper "One-bit Compressive sensing: Can We Go Deep and Blind?" is accepted by IEEE Signal Processing Letter 2022!
-Sept 2021 Promoted by [Prof. Mojtaba Soltanalian](https://msol.people.uic.edu/) to be a Ph.D. student in WaveOPT Lab, USA (Terminated due to VISA Issues)
+Sept 2022 Promoted by Prof. Hui Cheng to be a Ph.D. student in RAPID Lab /
+June 2022 My paper "One-bit Compressive sensing: Can We Go Deep and Blind?" is accepted by IEEE Signal Processing Letter 2022! /
+Sept 2021 Promoted by [Prof. Mojtaba Soltanalian](https://msol.people.uic.edu/) to be a Ph.D. student in WaveOPT Lab, USA (Terminated due to VISA Issues) /
 
 Research
+<div class="divider"></div>
 ======
 One-bit Compressive sensing: Can We Go Deep and Blind?
 Yiming Zeng, Shahin Khobahi, Mojtaba Soltanalian
