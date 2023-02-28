@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Yiming Zeng's Personal Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-A data-driven personal website
+Hi, I'm a Ph.D. student in Computer Science at Sun Yet-sen University, affiliated with [Robotics, Automation, Perception & Decision Laboratory (RAPID Lab)](http://lab.sysu-robotics.com/), co-advised by [Hui Cheng](https://cse.sysu.edu.cn/content/2504) and [Boyu Zhou](https://boyuzhou.net/). Before joining SYSU, I obtained my master's degree under the supervison of [Prof. Mojtaba Soltanalian](https://msol.people.uic.edu/) from [University of Illinois at Chicago](www.uic.edu), in May 2021. My research interests lie in the interplay of Artificial Interlligence and Robotics, pariticularly in the robot learning and manipulation. 
+
+Updates
+======
+Sept 2022 Promoted by Prof. Hui Cheng to be a Ph.D. student in RAPID Lab
+June 2022 My paper "One-bit Compressive sensing: Can We Go Deep and Blind?" is accepted by IEEE Signal Processing Letter 2022!
+Sept 2021 Promoted by [Prof. Mojtaba Soltanalian](https://msol.people.uic.edu/) to be a Ph.D. student in WaveOPT Lab, USA (Terminated due to VISA Issues)
+
+Research
+======
+One-bit Compressive sensing: Can We Go Deep and Blind?
+Yiming Zeng, Shahin Khobahi, Mojtaba Soltanalian
+IEEE Signal Processing Letter, 2022
+
+Experience
+======
+
+
+<div style='display: none'>
+Updates
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -48,3 +66,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+</div>
