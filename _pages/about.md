@@ -9,18 +9,18 @@ redirect_from:
 ---
 
 
-Hi, I'm a Ph.D. student in Computer Science at Sun Yet-sen University, affiliated with [Robotics, Automation, Perception & Decision Laboratory (RAPID Lab)](http://lab.sysu-robotics.com/), co-advised by [Hui Cheng](https://cse.sysu.edu.cn/content/2504) and [Boyu Zhou](https://boyuzhou.net/). Before joining SYSU, I obtained my master's degree under the supervison of [Prof. Mojtaba Soltanalian](https://msol.people.uic.edu/) from [University of Illinois at Chicago](www.uic.edu), in May 2021. My research interests lie in the interplay of Artificial Interlligence and Robotics, pariticularly in the robot learning and manipulation. 
+Hi, I'm a Ph.D. student in Computer Science at Sun Yet-sen University, affiliated with [RAPID Lab](http://lab.sysu-robotics.com/), co-advised by [Prof.Hui Cheng](https://cse.sysu.edu.cn/content/2504) and [Prof.Boyu Zhou](https://boyuzhou.net/). Before joining SYSU, I obtained my master's degree under the supervison of [Prof. Mojtaba Soltanalian](https://msol.people.uic.edu/) from [University of Illinois at Chicago](www.uic.edu), in May 2021. My research interests lie in the interplay of Artificial Interlligence and Robotics, pariticularly in the robot learning and manipulation. 
 
 Updates
 ======
-Sept 2022 Promoted by Prof. Hui Cheng to be a Ph.D. student in RAPID Lab  
-June 2022 My paper "One-bit Compressive sensing: Can We Go Deep and Blind?" is accepted by IEEE Signal Processing Letter 2022!  
-Sept 2021 Promoted by [Prof. Mojtaba Soltanalian](https://msol.people.uic.edu/) to be a Ph.D. student in WaveOPT Lab, USA (Terminated due to VISA Issues)  
+- **Sept 2022** Promoted by Prof. Hui Cheng to be a Ph.D. student in RAPID Lab  
+- **June 2022** My paper "One-bit Compressive sensing: Can We Go Deep and Blind?" is accepted by IEEE Signal Processing Letter 2022!  
+- **Sept 2021** Promoted by [Prof. Mojtaba Soltanalian](https://msol.people.uic.edu/) to be a Ph.D. student in WaveOPT Lab, USA (Terminated due to VISA Issues)  
 
 Research
 ======
-One-bit Compressive sensing: Can We Go Deep and Blind?
-Yiming Zeng, Shahin Khobahi, Mojtaba Soltanalian
+One-bit Compressive sensing: Can We Go Deep and Blind?  
+**Yiming Zeng**, Shahin Khobahi, Mojtaba Soltanalian  
 IEEE Signal Processing Letter, 2022
 
 Experience
